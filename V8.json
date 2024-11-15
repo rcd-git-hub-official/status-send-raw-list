@@ -4,7 +4,7 @@
     "audioUrl": "https://github.com/rcd-git-hub-official/status-send-raw-list/raw/refs/heads/main/welcome.mp3"
   },
   {
-    "triggerMessages": ["good", "hello", "hey", "greetings"],
+    "triggerMessages": ["good", "nice", "great", "awesome"],
     "audioUrl": "https://github.com/rcd-git-hub-official/status-send-raw-list/raw/refs/heads/main/rcd.mp3"
   }
 ]
